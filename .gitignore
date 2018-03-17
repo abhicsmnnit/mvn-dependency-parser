@@ -1,0 +1,5 @@
+# Dependency directories
+node_modules/
+
+# For suppressing ES 6 Syntax Warnings
+.jshintrc

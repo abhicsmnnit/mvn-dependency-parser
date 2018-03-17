@@ -1,0 +1,16 @@
+{
+  "name": "mvn-dependency-parser",
+  "version": "1.0.0",
+  "description": "Pass it your pom.xml, it'll tell you the current & the latest versions of the dependencies you are using.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhinav Verma",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.85.0",
+    "xml2js": "^0.4.19"
+  }
+}
